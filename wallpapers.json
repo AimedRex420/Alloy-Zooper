@@ -2,63 +2,63 @@
   "wallpapers": [
     {
       "author": "Pinterest",
-      "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/1.jpg",
       "name": "1",
-      "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/1.jpg"
     },
     {
       "author": "Pinterest",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/2.jpg",
       "name": "2",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/2.jpg"
     },
     {
       "author": "Pinterest",
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/3.jpg",
       "name":"3",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/3.jpg"
     }
 	{
       "author": "Pinterest",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/4.jpg",
       "name": "4",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/4.jpg"
     },
 	{
       "author": "Andro Inputs",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/5.jpg",
       "name": "5",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/5.jpg"
     },
 	{
       "author": "Carlo Giovanni",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/6.jpg",
       "name": "6",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/6.jpg"
     },
 	{
       "author": "Carlo Giovanni",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/7.jpg",
       "name": "7",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/7.jpg"
     },
 	{
       "author": "Carlo",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/8.jpg",
       "name": "8",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/8.jpg"
     },
 	{
       "author": "Pinterest",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/9.jpg",
       "name": "9",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/9.jpg"
     },
 	{
       "author": "Carlo Giovanni",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/10.jpg",
       "name": "10",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/AimedRex420/alloy-zooper/master/thumbs/10.jpg"
     }
   ]
 }
