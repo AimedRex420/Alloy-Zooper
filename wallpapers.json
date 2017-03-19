@@ -1,0 +1,64 @@
+{
+  "wallpapers": [
+    {
+      "author": "Pinterest",
+      "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
+      "name": "1",
+      "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+    },
+    {
+      "author": "Pinterest",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "2",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+    {
+      "author": "Pinterest",
+      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+      "name":"3",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+    }
+	{
+      "author": "Pinterest",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "4",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+	{
+      "author": "Andro Inputs",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "5",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+	{
+      "author": "Carlo Giovanni",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "6",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+	{
+      "author": "Carlo Giovanni",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "7",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+	{
+      "author": "Carlo",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "8",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+	{
+      "author": "Pinterest",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "9",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+	{
+      "author": "Carlo Giovanni",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "10",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    }
+  ]
+}
